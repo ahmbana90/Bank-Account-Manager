@@ -28,5 +28,3 @@ This Python application, built using PyQt5, offers a comprehensive interface for
 3. **Perform Transactions:** Select an account to deposit or withdraw funds.
 4. **File Operations:** Import account data from files or export current account data.
 
-### Contribution:
-- Contributions to the project are welcome. Please ensure to follow the project's coding standards and submit a pull request for review.
