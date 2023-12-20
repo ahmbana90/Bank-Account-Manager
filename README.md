@@ -1,4 +1,8 @@
 ## Project Title: Bank Account Manager
+file:///home/ahm/Pictures/Screenshots/Screenshot%20from%202023-12-20%2023-20-15.png
+file:///home/ahm/Pictures/Screenshots/Screenshot%20from%202023-12-20%2023-21-19.png
+
+
 
 This Python application, built using PyQt5, offers a comprehensive interface for managing bank accounts. It is an excellent resource for understanding object-oriented programming and GUI development in Python.
 
