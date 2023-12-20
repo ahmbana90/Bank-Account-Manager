@@ -1,9 +1,8 @@
 ## Project Title: Bank Account Manager
-
-
-
-
 This Python application, built using PyQt5, offers a comprehensive interface for managing bank accounts. It is an excellent resource for understanding object-oriented programming and GUI development in Python.
+
+
+![pic2](https://github.com/ahmbana90/Bank-Account-Manager-PyQt/assets/124783249/638c022b-6989-40fc-8275-b4a062e8c42b)
 
 ### Key Features:
 - **Account Management:** Create and manage individual bank accounts with details like name, age, sex, and balance.
